@@ -2,13 +2,13 @@
 
 # Supported Exchanges
 
-|                                           | Window       | Liquidity    | Coins        | Trading      |
-| ----------------------------------------- | ------------ | ------------ | ------------ | ------------ |
-| [**Binance**](https://www.binance.com/)   | &check;      | &check;      | &check;      | &check;      |
-| [**Bitfinex**](https://www.bitfinex.com/) | &check;      | &cross;      | &cross;      | &cross;      |
-| [**Coinbase**](https://www.coinbase.com/) | &cross;      | &cross;      | &cross;      | &cross;      |
-| [**Kraken**](https://www.kraken.com/)     | &check;      | &cross;      | &cross;      | &cross;      |
-| [**OKX**](https://www.okx.com/)           | &cross;      | &cross;      | &cross;      | &cross;      |
+| Exchange (ID)                                        | Window       | Liquidity    | Coins        | Trading      |
+| ---------------------------------------------------- | ------------ | ------------ | ------------ | ------------ |
+| [**Binance (binance)**](https://www.binance.com/)    | &check;      | &check;      | &check;      | &check;      |
+| [**Bitfinex (bitfinex)**](https://www.bitfinex.com/) | &check;      | &cross;      | &check;      | &cross;      |
+| [**Coinbase (coinbase)**](https://www.coinbase.com/) | &cross;      | &cross;      | &cross;      | &cross;      |
+| [**Kraken (kraken)**](https://www.kraken.com/)       | &check;      | &cross;      | &check;      | &cross;      |
+| [**OKX (okx)**](https://www.okx.com/)                | &cross;      | &cross;      | &cross;      | &cross;      |
 
 
 ### Binance Users
