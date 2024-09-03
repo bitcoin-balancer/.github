@@ -37,4 +37,9 @@
 - [ ] **`gui`:** Fix weird glitch in the coins-state-dialog component that closes the dialog without a trace when the viewport is resized. If lightweight-charts is causing this, consider using a different library for this component
 - [ ] **`gui`:** Fix weird blur that occurs in `Adjustments/CoinsConfigurationDialog` due to the scroll in the Textarea component
 - [ ] **`gui`:** Improve `app-installer`, make the content clickable and add a close button like the toastr
+- [ ] **`api`:** Create `record-list-store` module and reduce code duplication by leveraging the power of object composition. Also evaluate if the `canRecordsBeListed` function should be exposed too. Finally, implement it on:
+  - `api-error`
+  - `ip-blacklist`
+  - `notification`
+  - ...
 - [ ] ...
