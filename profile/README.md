@@ -37,3 +37,4 @@ Balancer is an open-source, self-hosted platform that automates the "Value Avera
 
 - [Supported Exchanges](./sections/supported-exchanges/index.md)
 - [@TODOS](./sections/todos/index.md)
+- [Terms of use](./sections/terms-of-use/index.md)
