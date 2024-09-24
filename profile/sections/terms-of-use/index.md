@@ -71,15 +71,10 @@ Balancer may modify these Terms at any time by posting the revised Terms on the 
 
 <br/>
 
-## 10. Termination
-Balancer may terminate your access to the Platform at any time, without notice, for any reason, including but not limited to your violation of these Terms.
-
-<br/>
-
-## 11. Governing Law and Dispute Resolution
+## 10. Governing Law and Dispute Resolution
 These Terms will be governed by and construed in accordance with the laws of Venezuela, without regard to its conflict of laws provisions. Any dispute arising out of or relating to these Terms will be subject to the exclusive jurisdiction of the courts in Venezuela.
 
 <br/>
 
-## 12. Contact Us
+## 11. Contact Us
 If you have any questions about these Terms, please contact us at [Your Email Address].
