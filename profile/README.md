@@ -4,6 +4,7 @@ Balancer is an open-source, self-hosted platform that automates the [Value Avera
 
 ![Cross-device](assets/cross-device.png)
 
+[More info about the project](https://balancer.jesusgraterol.dev/)
 
 
 <br/><br/><br/>
