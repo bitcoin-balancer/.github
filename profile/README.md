@@ -1,8 +1,8 @@
 # Balancer
 
-Balancer is an open-source, self-hosted platform that automates the "Value Averaging Strategy" for the Bitcoin spot market. It is exchange-agnostic and highly configurable.
+Balancer is an open-source, self-hosted platform that automates the [Value Averaging Strategy](https://www.investopedia.com/terms/v/value_averaging.asp) for the Bitcoin spot market. It is exchange-agnostic and highly configurable.
 
-
+![Cross-device](assets/cross-device.png)
 
 
 
@@ -36,6 +36,8 @@ Balancer is an open-source, self-hosted platform that automates the "Value Avera
 ## Sections
 
 - [Supported Exchanges](./sections/supported-exchanges/index.md)
+
+- [Screenshots](./sections/screenshots/index.md)
 - [@TODOS](./sections/todos/index.md)
 - [Terms of use](./sections/terms-of-use/index.md)
 
