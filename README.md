@@ -2,7 +2,7 @@
 
 Balancer is an open-source, self-hosted platform that automates the [Value Averaging Strategy](https://www.investopedia.com/terms/v/value_averaging.asp) for the Bitcoin spot market. It is exchange-agnostic and highly configurable.
 
-![Cross-device](assets/cross-device.png)
+![Cross-device](profile/assets/cross-device.png)
 
 - [Live demo](https://balancer.jesusgraterol.dev/)
 - [Run your own Balancer Instance](https://github.com/bitcoin-balancer/cli)
@@ -38,10 +38,10 @@ Balancer is an open-source, self-hosted platform that automates the [Value Avera
 
 ## Sections
 
-- [Supported Exchanges](./sections/supported-exchanges/index.md)
-- [Screenshots](./sections/screenshots/index.md)
-- [@TODOS](./sections/todos/index.md)
-- [Terms of use](./sections/terms-of-use/index.md)
+- [Supported Exchanges](profile/sections/supported-exchanges/index.md)
+- [Screenshots](profile/sections/screenshots/index.md)
+- [@TODOS](profile/sections/todos/index.md)
+- [Terms of use](profile/sections/terms-of-use/index.md)
 
 
 
