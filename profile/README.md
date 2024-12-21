@@ -9,7 +9,7 @@ Balancer is an open-source, self-hosted platform that automates the [Value Avera
 - [Contact author](mailto:jesusgraterol.dev@protonmail.com)
 
 
-<br/><br/><br/>
+<br/>
 
 ## Repositories
 
@@ -21,7 +21,7 @@ Balancer is an open-source, self-hosted platform that automates the [Value Avera
 
 
 
-<br/><br/><br/>
+<br/>
 
 ## Docker Images
 
@@ -34,10 +34,9 @@ Balancer is an open-source, self-hosted platform that automates the [Value Avera
 
 
 
-<br/><br/><br/>
+<br/>
 
 ## Sections
-
 - [Supported Exchanges](./sections/supported-exchanges/index.md)
 - [Screenshots](./sections/screenshots/index.md)
 - [@TODOS](./sections/todos/index.md)
@@ -47,7 +46,7 @@ Balancer is an open-source, self-hosted platform that automates the [Value Avera
 
 
 
-<br/><br/><br/>
+<br/>
 
 ## License
 
