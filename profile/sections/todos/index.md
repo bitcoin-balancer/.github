@@ -12,7 +12,7 @@
 ### Medium Priority
 
 - [ ] **`api`:** Create a benchmarking system to improve the database’s performance
-- [ ] **`gui`:** Create the `browserdb` package and use it to implement the request caching system
+- [ ] **`gui`:** Create the `browser-cache-async` package and use it to implement the request caching system
 - [ ] ...
 
 

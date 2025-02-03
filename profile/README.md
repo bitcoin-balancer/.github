@@ -1,22 +1,32 @@
 # Balancer
 
-Balancer is an open-source, self-hosted platform that automates the [Value Averaging Strategy](https://www.investopedia.com/terms/v/value_averaging.asp) for the Bitcoin spot market. It is exchange-agnostic and highly configurable.
+Balancer is a cutting-edge, open-source, self-hosted platform that empowers users to trade Bitcoin automatically. It is exchange-agnostic and highly configurable.
 
 ![Cross-device](assets/cross-device.png)
 
 - [Live demo](https://balancer.jesusgraterol.dev/)
-- [Run your own Balancer Instance](https://github.com/bitcoin-balancer/cli)
 - [Contact author](mailto:jesusgraterol.dev@protonmail.com)
+
+
+
+
+## Run your own Balancer Instance
+
+For most users, [`cli-lite`](https://github.com/bitcoin-balancer/cli-lite) provides everything needed to run a Balancer instance effortlessly. For advanced control and customization, use [`cli`](https://github.com/bitcoin-balancer/cli) instead.
+
+
 
 
 <br/>
 
 ## Repositories
 
-- [Command Line Interface (cli)](https://github.com/bitcoin-balancer/cli)
-- [Application Programming Interface (api)](https://github.com/bitcoin-balancer/api)
-- [Graphical User Interface (gui)](https://github.com/bitcoin-balancer/gui)
-- [Cloudflare Tunnel (ct)](https://github.com/bitcoin-balancer/ct)
+- [Command Line Interface (`cli`)](https://github.com/bitcoin-balancer/cli)
+- [Command Line Interface Lite (`cli-lite`)](https://github.com/bitcoin-balancer/cli-lite)
+- [Application Programming Interface (`api`)](https://github.com/bitcoin-balancer/api)
+- [Graphical User Interface (`gui`)](https://github.com/bitcoin-balancer/gui)
+- [Cloudflare Tunnel (`ct`)](https://github.com/bitcoin-balancer/ct)
+
 
 
 
