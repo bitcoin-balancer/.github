@@ -9,6 +9,7 @@ Balancer is a cutting-edge, open-source, self-hosted platform that empowers user
 
 
 
+<br/>
 
 ## Run your own Balancer Instance
 
