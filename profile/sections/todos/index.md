@@ -4,7 +4,7 @@
 
 ### High Priority
 
-- [ ] **`gui`:** Complete the implementation of the supported exchanges
+- [ ] **`gui & api`:** Complete the implementation of the supported exchanges
 - [ ] ...
 
 
@@ -12,7 +12,6 @@
 ### Medium Priority
 
 - [ ] **`api`:** Create a benchmarking system to improve the database’s performance
-- [ ] **`gui`:** Create the `browser-cache-async` package and use it to implement the request caching system
 - [ ] ...
 
 
