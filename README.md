@@ -4,9 +4,32 @@ Balancer is a cutting-edge, open-source, self-hosted platform that empowers user
 
 ![Cross-device](profile/assets/cross-device.png)
 
+- [How does it work?](#how-does-it-work)
+- [Run your own Balancer Instance](#run-your-own-balancer-instance)
 - [Live demo](https://balancer.jesusgraterol.dev/)
 - [Contact author](mailto:jesusgraterol.dev@protonmail.com)
 
+
+
+
+
+<br/>
+
+## How does it work?
+
+...
+
+### Indicators
+
+- [Window](profile/sections/indicators/window.md)
+- [Liquidity](profile/sections/indicators/liquidity.md)
+- [Coins](profile/sections/indicators/coins.md)
+- [Reversal](profile/sections/indicators/reversal.md)
+
+### Position Management
+
+- [Strategy](profile/sections/position-management/strategy.md)
+- [Templates](profile/sections/position-management/templates.md)
 
 
 
