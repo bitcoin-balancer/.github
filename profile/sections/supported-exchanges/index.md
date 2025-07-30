@@ -1,20 +1,18 @@
-[< Back](../../README.md)
+[< Back](../../README.md#sections)
 
-# Supported Exchanges
+# Supported exchanges
 
-| Exchange (ID)                                        | Window       | Liquidity    | Coins        | Trading      |
-| ---------------------------------------------------- | ------------ | ------------ | ------------ | ------------ |
-| [**Binance (binance)**](https://www.binance.com/)    | &check;      | &check;      | &check;      | &check;      |
-| [**Bitfinex (bitfinex)**](https://www.bitfinex.com/) | &check;      | &check;      | &check;      | &cross;      |
-| [**Coinbase (coinbase)**](https://www.coinbase.com/) | &cross;      | &cross;      | &cross;      | &cross;      |
-| [**Kraken (kraken)**](https://www.kraken.com/)       | &check;      | &check;      | &check;      | &cross;      |
-| [**OKX (okx)**](https://www.okx.com/)                | &cross;      | &cross;      | &cross;      | &cross;      |
-
+| Exchange (ID)                                        | Window  | Liquidity | Coins   | Trading |
+| ---------------------------------------------------- | ------- | --------- | ------- | ------- |
+| [**Binance (binance)**](https://www.binance.com/)    | &check; | &check;   | &check; | &check; |
+| [**Bitfinex (bitfinex)**](https://www.bitfinex.com/) | &check; | &check;   | &check; | &cross; |
+| [**Coinbase (coinbase)**](https://www.coinbase.com/) | &cross; | &cross;   | &cross; | &cross; |
+| [**Kraken (kraken)**](https://www.kraken.com/)       | &check; | &check;   | &check; | &cross; |
+| [**OKX (okx)**](https://www.okx.com/)                | &cross; | &cross;   | &cross; | &cross; |
 
 ### Binance Users
 
 - ...
-
 
 ### Bitfinex Users
 

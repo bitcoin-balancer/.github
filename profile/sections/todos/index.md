@@ -1,4 +1,4 @@
-[< Back](../../README.md)
+[< Back](../../README.md#sections)
 
 # @TODOs
 
@@ -7,14 +7,10 @@
 - [ ] **`gui & api`:** Complete the implementation of the supported exchanges
 - [ ] ...
 
-
-
 ### Medium Priority
 
 - [ ] **`api`:** Create a benchmarking system to improve the database’s performance
 - [ ] ...
-
-
 
 ### Low Priority
 
@@ -26,7 +22,7 @@
 - [ ] **`api`:** Expand the automated tests' coverage
 - [ ] **`gui`:** Fix the glitch in `mobile-tabs.component.tsx` that makes the tabs lag ~1 second before placing themselves correctly (this issue may be caused by the `min-h-dvh` class set in the parent container)
 - [ ] **`gui`:** Create a component that can render any data element (including JSX elements) and can be passed to the `info-dialog` and `confirmation-dialog` components
-- [ ] **`gui`:** Fix responsiveness issues with long texts and apply the solution in: 
+- [ ] **`gui`:** Fix responsiveness issues with long texts and apply the solution in:
   - `Server/Monitoring`, `Server/APIErrors`, `Server/APIErrorDialog`, `APIError` badges
   - `Adjustments`
   - `Users/AuthSessions`

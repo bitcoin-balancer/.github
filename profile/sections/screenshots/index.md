@@ -1,4 +1,4 @@
-[< Back](../../README.md)
+[< Back](../../README.md#sections)
 
 # Screenshots
 
@@ -23,9 +23,6 @@
 ![Adjustments](desktop-05.png)
 
 <br/>
-
-
-
 
 ## Mobile
 

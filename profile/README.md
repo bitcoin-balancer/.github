@@ -56,7 +56,7 @@ For most users, [`cli-lite`](https://github.com/bitcoin-balancer/cli-lite) provi
 
 ## Sections
 
-- [Supported Exchanges](./sections/supported-exchanges/index.md)
+- [Supported exchanges](./sections/supported-exchanges/index.md)
 - [Screenshots](./sections/screenshots/index.md)
 - [@TODOS](./sections/todos/index.md)
 - [Terms of use](./sections/terms-of-use/index.md)
