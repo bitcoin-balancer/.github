@@ -68,6 +68,6 @@ When the window identifies the price of Bitcoin has crashed, it activates the **
 
 ### Increasing strongly (2)
 
-Conversely, when a strong upward trend is detected, the Strategy is triggered. This module assesses the current profit and loss (PNL) situation to determine if the position can be decreased, aiming to secure profits.
+Conversely, when a strong upward trend is detected, the **Strategy** is triggered. This module assesses the current profit and loss (PNL) situation to determine if the position can be decreased, aiming to secure profits.
 
 ![Example of a window that is increasing strongly](./increasing-strongly.png)
