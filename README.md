@@ -9,10 +9,6 @@ Balancer is a cutting-edge, open-source, self-hosted platform that empowers user
 - [Live demo](https://balancer.jesusgraterol.dev/)
 - [Contact author](mailto:jesusgraterol.dev@protonmail.com)
 
-
-
-
-
 <br/>
 
 ## How does it work?
@@ -21,27 +17,21 @@ Balancer is a cutting-edge, open-source, self-hosted platform that empowers user
 
 ### Indicators
 
-- [Window](profile/sections/indicators/window.md)
+- [Window](profile/sections/indicators/window/index.md)
 - [Liquidity](profile/sections/indicators/liquidity.md)
 - [Coins](profile/sections/indicators/coins.md)
 - [Reversal](profile/sections/indicators/reversal.md)
 
-### Position Management
+### Position management
 
 - [Strategy](profile/sections/position-management/strategy.md)
 - [Templates](profile/sections/position-management/templates.md)
-
-
 
 <br/>
 
 ## Run your own Balancer Instance
 
 For most users, [`cli-lite`](https://github.com/bitcoin-balancer/cli-lite) provides everything needed to run a Balancer instance effortlessly. For advanced control and customization, use [`cli`](https://github.com/bitcoin-balancer/cli) instead.
-
-
-
-
 
 <br/>
 
@@ -53,9 +43,6 @@ For most users, [`cli-lite`](https://github.com/bitcoin-balancer/cli-lite) provi
 - [Graphical User Interface (`gui`)](https://github.com/bitcoin-balancer/gui)
 - [Cloudflare Tunnel (`ct`)](https://github.com/bitcoin-balancer/ct)
 
-
-
-
 <br/>
 
 ## Docker Images
@@ -65,10 +52,6 @@ For most users, [`cli-lite`](https://github.com/bitcoin-balancer/cli-lite) provi
 - [jesusgraterol/balancer-gui](https://hub.docker.com/r/jesusgraterol/balancer-gui)
 - [jesusgraterol/balancer-ct](https://hub.docker.com/r/jesusgraterol/balancer-ct)
 
-
-
-
-
 <br/>
 
 ## Sections
@@ -77,10 +60,6 @@ For most users, [`cli-lite`](https://github.com/bitcoin-balancer/cli-lite) provi
 - [Screenshots](profile/sections/screenshots/index.md)
 - [@TODOS](profile/sections/todos/index.md)
 - [Terms of use](profile/sections/terms-of-use/index.md)
-
-
-
-
 
 <br/>
 
