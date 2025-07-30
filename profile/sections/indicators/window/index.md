@@ -21,11 +21,11 @@ By default, the window utilizes 128 15-minute candlesticks, spanning approximate
 
 The state of a split is derived by calculating the percentage change experienced from the beginning to the end of the dataset. The result is categorized into five distinct levels, indicating the strength and direction of the trend:
 
-- **Increasing strongly (2)** - a clear upward trend with strong momentum
-- **Increasing (1)** - a positive trend, but with less intensity than "Increasing strongly"
-- **Sideways (0)** - a period of consolidation with no clear direction
-- **Decreasing (-1)** - a negative trend with moderate downward momentum
-- **Decreasing strongly (-2)** - a strong downward trend with significant downward momentum
+- **Increasing strongly (`2`)** - a clear upward trend with strong momentum
+- **Increasing (`1`)** - a positive trend, but with less intensity than "Increasing strongly"
+- **Sideways (`0`)** - a period of consolidation with no clear direction
+- **Decreasing (`-1`)** - a negative trend with moderate downward momentum
+- **Decreasing strongly (`-2`)** - a strong downward trend with significant downward momentum
 
 Once the state for each split is calculated, the overall Window state is determined as follows:
 
@@ -60,13 +60,13 @@ The following example provides a visual representation of how the window state i
 
 The indicator plays a crucial role in triggering other modules based on the Window's state.
 
-### Decreasing strongly (-2)
+### Decreasing strongly (`-2`)
 
 When the window identifies the price of Bitcoin has crashed, it activates the **Reversal Indicator**. This module analyzes various indicators to determine potential opportunities for opening or increasing the position, seeking to capitalize on the reversal of the downward trend.
 
 ![Example of a window that is decreasing strongly](./decreasing-strongly.png)
 
-### Increasing strongly (2)
+### Increasing strongly (`2`)
 
 Conversely, when a strong upward trend is detected, the **Strategy** is triggered. This module assesses the current profit and loss (PNL) situation to determine if the position can be decreased, aiming to secure profits.
 
