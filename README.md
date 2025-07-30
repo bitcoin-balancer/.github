@@ -18,7 +18,7 @@ Balancer is a cutting-edge, open-source, self-hosted platform that empowers user
 ### Indicators
 
 - [Window](profile/sections/indicators/window/index.md)
-- [Liquidity](profile/sections/indicators//liquidity/index.md)
+- [Liquidity](profile/sections/indicators/liquidity/index.md)
 - [Coins](profile/sections/indicators/coins/index.md)
 - [Reversal](profile/sections/indicators/reversal/index.md)
 
