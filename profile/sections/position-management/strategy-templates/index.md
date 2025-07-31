@@ -1,6 +1,6 @@
 [< Back](../../../README.md#position-management)
 
-# Strategy
+# Strategy templates
 
 Balancer gives users full control over their trading strategy and budget allocation through a simple, user-friendly form available in the GUI.
 
