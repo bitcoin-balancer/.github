@@ -29,7 +29,7 @@ When the price rises and the position becomes profitable, Balancer gradually red
 ### Position management
 
 - [Strategy](sections/position-management/strategy/index.md)
-- [Budget](sections/position-management/budget/index.md)
+- [Budget management](sections/position-management/budget-management/index.md)
 - [Examples](sections/position-management/examples/index.md)
 - [Strategy templates](sections/position-management/strategy-templates/index.md)
 

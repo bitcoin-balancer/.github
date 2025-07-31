@@ -1,5 +1,5 @@
 [< Back](../../../README.md#position-management)
 
-# Budget
+# Budget management
 
 ...
