@@ -13,11 +13,11 @@ Balancer is a cutting-edge, open-source, self-hosted platform that empowers user
 
 ## How does it work?
 
-Balancer helps you automate your Bitcoin trades by responding to market conditions.
+Balancer automates Bitcoin trading by responding to market conditions.
 
-When the price drops significantly, it analyzes multiple indicators to assess the chances of a rebound. If a reversal seems likely, it increases your position using a portion of your budget, aiming to improve your weighted entry price.
+When the price drops significantly, it analyzes multiple indicators to assess the likelihood of a rebound. If a reversal is likely, it increases the position using a portion of the allocated budget to improve the weighted entry price.
 
-When the price rises and your position turns profitable, Balancer gradually sells portions of your Bitcoin to secure gains. The greater the profit, the larger and more frequent the reductions.
+When the price rises and the position becomes profitable, Balancer gradually reduces it to secure gains. The greater the profit, the larger and more frequent the reductions.
 
 ### Indicators
 
