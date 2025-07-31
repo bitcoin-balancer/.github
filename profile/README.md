@@ -28,8 +28,8 @@ When the price rises and your position turns profitable, Balancer gradually sell
 
 ### Position management
 
-- [Strategy](sections/position-management/strategy.md)
-- [Templates](sections/position-management/templates.md)
+- [Strategy](sections/position-management/strategy/index.md)
+- [Templates](sections/position-management/templates/index.md)
 
 <br/>
 
