@@ -32,38 +32,150 @@ This applies when funds are added regularly (e.g., from a salary or recurring in
 
 These strategy templates have been tested by our team and are suitable for a wide range of users. They serve as a foundation that can be fully customized as you gain experience with Balancer.
 
+### Scalper
+
 <details>
   <summary><strong>Eager Scalper (Default)</strong></summary>
 
-  ### Increase
+  #### Increase
   - **Amount:** refer to ["Budget management"](#budget-management)
   - **Gain requirement%:** `-3`
     - **Tip:** for dynamic budgets, consider setting this to `0` so positions can be increased even when they’re not at a loss.
   - **Idle duration:** `48`
   - **Idle mode:** `Incremental`
 
-  ### Decrease
-  - **Level 0**
+  #### Decrease
+  - **Level #0**
     - **Gain requirement%:** `1.5`
     - **Percentage:** `5`
     - **Frequency:** `240`
-  - **Level 1**
+  - **Level #1**
     - **Gain requirement%:** `3.5`
     - **Percentage:** `10`
     - **Frequency:** `120`
-  - **Level 2**
+  - **Level #2**
     - **Gain requirement%:** `5.5`
     - **Percentage:** `17.5`
     - **Frequency:** `80`
-  - **Level 3**
+  - **Level #3**
     - **Gain requirement%:** `7.5`
     - **Percentage:** `25`
     - **Frequency:** `30`
-  - **Level 4**
+  - **Level #4**
     - **Gain requirement%:** `10`
     - **Percentage:** `35`
     - **Frequency:** `10`
 
-  ![Eager Scalper Decrease Schedule](./eager-scalper.png)
+  ![Eager Scalper Decrease Schedule](./eager-scalper-decrease-schedule.png)
+  <br/>
+</details>
+
+<details>
+  <summary><strong>Scalper</strong></summary>
+
+  #### Increase
+  - **Amount:** refer to ["Budget management"](#budget-management)
+  - **Gain requirement%:** `-3`
+    - **Tip:** for dynamic budgets, consider setting this to `0` so positions can be increased even when they’re not at a loss.
+  - **Idle duration:** `48`
+  - **Idle mode:** `Incremental`
+
+  #### Decrease
+  - **Level #0**
+    - **Gain requirement%:** `1.5`
+    - **Percentage:** `5`
+    - **Frequency:** `480`
+  - **Level #1**
+    - **Gain requirement%:** `3.5`
+    - **Percentage:** `10`
+    - **Frequency:** `240`
+  - **Level #2**
+    - **Gain requirement%:** `5.5`
+    - **Percentage:** `17.5`
+    - **Frequency:** `160`
+  - **Level #3**
+    - **Gain requirement%:** `7.5`
+    - **Percentage:** `25`
+    - **Frequency:** `60`
+  - **Level #4**
+    - **Gain requirement%:** `10`
+    - **Percentage:** `35`
+    - **Frequency:** `20`
+
+  ![Scalper Decrease Schedule](./scalper-decrease-schedule.png)
+  <br/>
+</details>
+
+### Swing Trader
+
+<details>
+  <summary><strong>Eager Swing Trader</strong></summary>
+
+  #### Increase
+  - **Amount:** refer to ["Budget management"](#budget-management)
+  - **Gain requirement%:** `-3`
+    - **Tip:** for dynamic budgets, consider setting this to `0` so positions can be increased even when they’re not at a loss.
+  - **Idle duration:** `48`
+  - **Idle mode:** `Incremental`
+
+  #### Decrease
+  - **Level #0**
+    - **Gain requirement%:** `3`
+    - **Percentage:** `5`
+    - **Frequency:** `240`
+  - **Level #1**
+    - **Gain requirement%:** `6`
+    - **Percentage:** `10`
+    - **Frequency:** `120`
+  - **Level #2**
+    - **Gain requirement%:** `9`
+    - **Percentage:** `17.5`
+    - **Frequency:** `80`
+  - **Level #3**
+    - **Gain requirement%:** `12`
+    - **Percentage:** `25`
+    - **Frequency:** `30`
+  - **Level #4**
+    - **Gain requirement%:** `15`
+    - **Percentage:** `35`
+    - **Frequency:** `10`
+
+  ![Eager Swing Trader Decrease Schedule](./eager-swing-trader-decrease-schedule.png)
+  <br/>
+</details>
+
+<details>
+  <summary><strong>Swing Trader</strong></summary>
+
+  #### Increase
+  - **Amount:** refer to ["Budget management"](#budget-management)
+  - **Gain requirement%:** `-3`
+    - **Tip:** for dynamic budgets, consider setting this to `0` so positions can be increased even when they’re not at a loss.
+  - **Idle duration:** `48`
+  - **Idle mode:** `Incremental`
+
+  #### Decrease
+  - **Level #0**
+    - **Gain requirement%:** `3`
+    - **Percentage:** `5`
+    - **Frequency:** `480`
+  - **Level #1**
+    - **Gain requirement%:** `6`
+    - **Percentage:** `10`
+    - **Frequency:** `240`
+  - **Level #2**
+    - **Gain requirement%:** `9`
+    - **Percentage:** `17.5`
+    - **Frequency:** `160`
+  - **Level #3**
+    - **Gain requirement%:** `12`
+    - **Percentage:** `25`
+    - **Frequency:** `60`
+  - **Level #4**
+    - **Gain requirement%:** `15`
+    - **Percentage:** `35`
+    - **Frequency:** `20`
+
+  ![Swing Trader Decrease Schedule](./swing-trader-decrease-schedule.png)
   <br/>
 </details>
