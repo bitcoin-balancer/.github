@@ -3,3 +3,11 @@
 # Strategy templates
 
 ...
+
+## Budget management
+
+...
+
+## Templates
+
+...
